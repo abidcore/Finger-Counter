@@ -146,7 +146,7 @@ AI-Finger-Counter/
 ## 🖼️ Screenshots
 
 <p align="center">
-  <img src="assets/demo.png" alt="Application UI demo" width="750">
+  <img src="Assets/demo.png" alt="Application UI demo" width="750">
 </p>
 
 > The image above is an illustrative UI mockup generated to preview the layout. Replace `assets/demo.png` with an actual screenshot or GIF of the running application for your submission/portfolio.
