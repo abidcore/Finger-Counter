@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" alt="AI Finger Counter System logo" width="700">
+  <img src="Assets/logo.png" alt="AI Finger Counter System logo" width="700">
 </p>
 
 <h1 align="center">AI Finger Counter System</h1>
